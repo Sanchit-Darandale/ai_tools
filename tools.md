@@ -120,7 +120,3 @@ Curated list of **AI tools (100% free or generous free tiers)** suitable for eng
 | Liner      | Highlight + summarize web content          | [https://getliner.com](https://getliner.com)           |
 
 ---
-
-✅ **Add this file as your `README.md` on GitHub** for student projects, AI resource hubs, or personal bookmarking.
-
-Let me know if you'd like badges, themes, or visuals next!
